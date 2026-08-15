@@ -1011,7 +1011,8 @@
 
   <!-- ===== i928: Pixel 3 XL (crosshatch) ===== -->
   <remote  name="themuppets"
-           fetch="https://github.com/TheMuppets" />
+           fetch="https://github.com/TheMuppets"
+           revision="lineage-22.2" />
 
   <project path="device/google/crosshatch" name="LineageOS/android_device_google_crosshatch" />
   <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" />
