@@ -1019,7 +1019,7 @@
   <project path="packages/apps/ElmyraService" name="LineageOS/android_packages_apps_ElmyraService" />
   <project path="vendor/google/crosshatch" name="proprietary_vendor_google_crosshatch" remote="themuppets" revision="lineage-22.2" />
   <project path="kernel/google/msm-4.9" name="i928/android_kernel_google_msm-4.9" revision="pixel3xl-ksu-roomservice" />
-  <project path="kernel/google/msm-4.9/drivers/kernelsu" name="i928/KSU-Next" revision="crosshatch-legacy-susfs-33193" />
+  <project path="kernel/google/msm-4.9/drivers/kernelsu" name="i928/KSU-Next" revision="legacy-susfs-msm-4.9" />
   <project path="kernel/google/msm-4.9/fs/exfat" name="i928/exfat-linux" revision="4.93" />
   <!-- ===== end i928 ===== -->
 
