@@ -1014,12 +1014,12 @@
            fetch="https://github.com/TheMuppets"
            revision="lineage-22.2" />
 
-  <project path="device/google/crosshatch" name="LineageOS/android_device_google_crosshatch" />
+  <project path="device/google/crosshatch" name="i928/android_device_google_crosshatch" revision="pixel3xl-erofs" />
   <project path="device/google/gs-common" name="LineageOS/android_device_google_gs-common" />
   <project path="packages/apps/ElmyraService" name="LineageOS/android_packages_apps_ElmyraService" />
   <project path="vendor/google/crosshatch" name="proprietary_vendor_google_crosshatch" remote="themuppets" revision="lineage-22.2" />
   <project path="kernel/google/msm-4.9" name="i928/android_kernel_google_msm-4.9" revision="erofs-3fixes" />
-  <project path="kernel/google/msm-4.9/drivers/kernelsu" name="i928/KSU-Next" revision="a0f41453b37c66ac2c211508b23ec02beeec5dff" upstream="legacy-susfs-v2" />
+  <project path="kernel/google/msm-4.9/drivers/kernelsu" name="i928/KSU-Next" revision="bd8c0572a500c2ef5d19cafb0b3b4642d742475b" upstream="legacy-susfs-v2-3.4" />
   <project path="kernel/google/msm-4.9/fs/exfat" name="i928/exfat-linux" revision="4.93" />
   <!-- ===== end i928 ===== -->
 
