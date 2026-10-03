@@ -1021,6 +1021,9 @@
   <project path="kernel/google/msm-4.9" name="i928/android_kernel_google_msm-4.9" revision="erofs-3fixes" />
   <project path="kernel/google/msm-4.9/drivers/kernelsu" name="i928/KSU-Next" revision="bd8c0572a500c2ef5d19cafb0b3b4642d742475b" upstream="legacy-susfs-v2-3.4" />
   <project path="kernel/google/msm-4.9/fs/exfat" name="i928/exfat-linux" revision="4.93" />
+  <!-- OTA feed for LineageOS Updater (lineage.updater.uri); written and pushed
+       by ~/bin/deploy_lineage_ota.sh. Evo's feed is the same repo, branch bka. -->
+  <project path="lineage/OTA" name="i928/OTA" revision="lineage-22.2" />
   <!-- ===== end i928 ===== -->
 
   <include name="snippets/lineage.xml" />
