@@ -1023,7 +1023,7 @@
   <project path="packages/apps/ElmyraService" name="LineageOS/android_packages_apps_ElmyraService" />
   <project path="vendor/google/crosshatch" name="proprietary_vendor_google_crosshatch" remote="themuppets" revision="lineage-22.2" />
   <project path="kernel/google/msm-4.9" name="i928/android_kernel_google_msm-4.9" revision="f2fs-cpdisable-fast" />
-  <project path="kernel/google/msm-4.9/drivers/kernelsu" name="i928/KSU-Next" revision="bd8c0572a500c2ef5d19cafb0b3b4642d742475b" upstream="legacy-susfs-v2-3.4" />
+  <project path="kernel/google/msm-4.9/drivers/kernelsu" name="i928/KSU-Next" revision="5a21ddacd12e5c98c013a8570433fca4606c8947" upstream="uapi5" />
   <project path="kernel/google/msm-4.9/fs/exfat" name="i928/exfat-linux" revision="4.93" />
   <!-- OTA feed for LineageOS Updater (lineage.updater.uri); written and pushed
        by ~/bin/deploy_lineage_ota.sh. Evo's feed is the same repo, branch bka. -->
